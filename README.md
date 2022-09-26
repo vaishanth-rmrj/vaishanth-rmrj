@@ -1,5 +1,9 @@
 ### Hey folks !!! 👋 This is Vaishanth Ramaraj
 
+
+
+<img align="right" height="150" src="https://c.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif" style="border-radius:50%">
+
 🔭 I’m currently working on Computer Vision and Machine Learning algorithms. I'm a Gradutae student at University of Maryland pursuing Robotics Engineering.
 
 - Feel Free to look into my repositories for some cool projects.
